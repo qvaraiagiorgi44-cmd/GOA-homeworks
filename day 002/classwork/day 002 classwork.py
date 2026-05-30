@@ -1,0 +1,8 @@
+print ("giorgi")
+print ("saba")
+print (50)
+print (10)
+print (0.8)
+print (0.5)
+print (False)
+print (True) 
